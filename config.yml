@@ -1,0 +1,24 @@
+background:
+  width: 1920
+  height: 1080
+  R: 0
+  G: 0
+  B: 0
+  A: 0
+
+focus:
+  R: 15
+  G: 50
+  B: 15
+  A: 255
+  size: 25
+
+audio:
+  noise_f: white_noise.mp4
+  questions_d: questions
+  noise_before: 10
+  silence_before: 2.5
+  silence_after: 1
+
+save:
+  output: output.mp4
